@@ -1,5 +1,5 @@
 Summary:	Provides a seperate frame with convenient references
-Summary(pl):	Provides a seperate frame with convenient references
+Summary(pl):	Speedbar
 Name:		xemacs-speedbar-pkg
 %define 	srcname	speedbar
 Version:	1.14
