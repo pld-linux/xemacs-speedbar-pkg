@@ -2,7 +2,7 @@ Summary:	Provides a seperate frame with convenient references
 Summary(pl):	Speedbar
 Name:		xemacs-speedbar-pkg
 %define 	srcname	speedbar
-Version:	1.14
+Version:	1.17
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
