@@ -2,12 +2,12 @@ Summary:	Provides a seperate frame with convenient references
 Summary(pl):	Speedbar - oddzielna ramka z wygodnymi odno¶nikami
 Name:		xemacs-speedbar-pkg
 %define 	srcname	speedbar
-Version:	1.24
+Version:	1.27
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	7d635797f600551280dc0289b5a9fe4d
+# Source0-md5:	4df8d109364493dca814ef7429d560d2
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
