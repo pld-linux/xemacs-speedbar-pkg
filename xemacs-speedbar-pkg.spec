@@ -3,7 +3,7 @@ Summary(pl):	Speedbar - oddzielna ramka z wygodnymi odno¶nikami
 Name:		xemacs-speedbar-pkg
 %define 	srcname	speedbar
 Version:	1.27
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
