@@ -16,8 +16,9 @@ Requires:	xemacs-base-pkg
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-
-%description -l pl 
+The speedbar provides a frame in which files, and locations in files are
+displayed. These items can be clicked on with mouse-2 in order to make the
+last active frame display that file location.
 
 %prep
 %setup -q -c
