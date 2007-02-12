@@ -1,5 +1,5 @@
 Summary:	Provides a seperate frame with convenient references
-Summary(pl):	Speedbar - oddzielna ramka z wygodnymi odno¶nikami
+Summary(pl.UTF-8):   Speedbar - oddzielna ramka z wygodnymi odnoÅ›nikami
 Name:		xemacs-speedbar-pkg
 %define 	srcname	speedbar
 Version:	1.27
@@ -20,10 +20,10 @@ The speedbar provides a frame in which files, and locations in files
 are displayed. These items can be clicked on with mouse-2 in order to
 make the last active frame display that file location.
 
-%description -l pl
-Speedbar dodaje ramkê, w której s± wy¶wietlane pliki i miejsca w
-plikach. Te rzeczy mog± byæ klikniête przy u¿yciu mouse-2, aby
-ostatnia aktywna ramka wy¶wietla³a to miejsce pliku.
+%description -l pl.UTF-8
+Speedbar dodaje ramkÄ™, w ktÃ³rej sÄ… wyÅ›wietlane pliki i miejsca w
+plikach. Te rzeczy mogÄ… byÄ‡ klikniÄ™te przy uÅ¼yciu mouse-2, aby
+ostatnia aktywna ramka wyÅ›wietlaÅ‚a to miejsce pliku.
 
 %prep
 %setup -q -c
