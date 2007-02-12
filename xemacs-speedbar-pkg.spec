@@ -1,5 +1,5 @@
 Summary:	Provides a seperate frame with convenient references
-Summary(pl.UTF-8):   Speedbar - oddzielna ramka z wygodnymi odnośnikami
+Summary(pl.UTF-8):	Speedbar - oddzielna ramka z wygodnymi odnośnikami
 Name:		xemacs-speedbar-pkg
 %define 	srcname	speedbar
 Version:	1.27
