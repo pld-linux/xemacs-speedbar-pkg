@@ -6,7 +6,7 @@ Version:	1.27
 Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
-Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
+Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
 # Source0-md5:	4df8d109364493dca814ef7429d560d2
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
